@@ -41,31 +41,34 @@ Conheça os desenvolvedores por trás deste projeto:
     <td align="center">
       <a href="#">
         <img src="https://github.com/github.png" width="100px;" alt="Foto Integrante 1"/><br>
-        <sub><b>Nome do Integrante 1</b></sub>
+        <sub><b>Luis Otávio</b></sub>
       </a><br>
-      💻 Desenvolvedor Frontend
+      ⚙️ Gestor
     </td>
     <td align="center">
       <a href="#">
         <img src="https://github.com/github.png" width="100px;" alt="Foto Integrante 2"/><br>
-        <sub><b>Nome do Integrante 2</b></sub>
+        <sub><b>Guilherme Castro</b></sub>
       </a><br>
-      ⚙️ Desenvolvedor Backend
+      💻 Desenvolvedores
     </td>
     <td align="center">
       <a href="#">
         <img src="https://github.com/github.png" width="100px;" alt="Foto Integrante 3"/><br>
-        <sub><b>Nome do Integrante 3</b></sub>
+        <sub><b>Antônio Ádrian</b></sub>
       </a><br>
       🎨 UI/UX Designer
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/github.png" width="100px;" alt="Foto Integrante 1"/><br>
+        <sub><b>Marcos Victor</b></sub>
+      </a><br>
+      💻 Desenvolvedores
+    </td>
+
   </tr>
+  
 </table>
 
----
-
-## 🚀 Como Executar o Projeto
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/seu-usuario/pedro-ii-delivery.git](https://github.com/seu-usuario/pedro-ii-delivery.git)
+link para o projeto: https://snack.expo.dev/@passafome21/restaurante
